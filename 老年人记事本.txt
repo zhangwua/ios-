@@ -1,0 +1,7 @@
+oracle账号 ：1329115114@qq.com  密码：Zw225038
+所内邮箱登入地址：mail.cstnet.cn  账号：w.zhang@giim.ac.cn  密码：giim10013#
+所内OA登入地址：http://100.13.1.200 账号：w.zhang  密码：w.zhang
+门禁卡：羊城通 04601176
+部门共享网盘地址：\\100.13.32.200
+android Studio运行：react-native run-android
+react developer tools调试：react-devtools
